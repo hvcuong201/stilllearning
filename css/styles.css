@@ -1,0 +1,153 @@
+body {
+  text-align: center;
+  font-family: 'Nunito', sans-serif;
+  margin: 0;
+}
+
+h2 {
+  color: #11999e;
+  font-family: 'Lato', sans-serif;
+  font-size: 2.5rem;
+}
+
+h3 {
+  font-family: 'Source Sans Pro', sans-serif;
+  color: #11999E;
+}
+
+a {
+  color: #11999E;
+  font-weight: bolder;
+  margin: 10px;
+}
+
+p {
+  color: #40514e;
+  font-weight: bold;
+  line-height: 2;
+}
+
+.seperate {
+  border: 12px dotted #EAF6F6;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto 100px auto;
+}
+
+.top-container {
+  background-color: #e4f9f5;
+  position: relative;
+  padding-top: 100px;
+}
+
+.Introduce_Name {
+  width: 30%;
+  font-family: 'Amatic SC', cursive;
+  font-size: 400%;
+  color: #11999e;
+  margin: 50px auto 0 auto;
+}
+
+.Under_Introduce {
+  margin: 0 auto 50px auto;
+  color: #11999e;
+  font-weight: bold;
+}
+
+.broke {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 70px;
+  right: 35.8rem;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 35.8rem;
+  bottom: 310px;
+}
+
+.moutain{
+  position: relative;
+  top: 5px;
+  height: 50%;
+}
+
+.profile {
+  width: 50%;
+  margin: auto;
+}
+
+.middle-container {
+  margin: 70px auto 100px auto;
+}
+
+.skill-row {
+  margin: 100px auto 100px;
+  width: 50%;
+  text-align: left;
+}
+
+.skill-image-java {
+  width: 16%;
+  float: left;
+  margin-right: 30px;
+}
+
+.skill-image-basketball {
+  width: 16%;
+  float: right;
+  margin-left: 30px;
+}
+
+.contact-me {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+}
+
+.bottom-container {
+  background-color: #cbf1f5;
+  padding: 40px;
+  line-height: 2;
+}
+
+.myButton {
+  background-color: #11999e;
+  border-radius: 24px;
+  border: 1px solid #18ab29;
+  display: inline-block;
+  cursor: pointer;
+  color: #ffffff;
+  font-family: 'Lato', sans-serif;
+  font-size: 17px;
+  padding: 16px 31px;
+  text-decoration: none;
+  text-shadow: 0 1px 0 #2f6627;
+}
+
+.myButton:hover {
+  background-color: #30e3ca;
+}
+
+.myButton:active {
+  position: relative;
+  top: 1px;
+}
+
+.footer-link{
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #30e3ca;
+}
+
+.copyright {
+  color: #00b8a9;
+  font-size: 15px;
+  padding: 20px 0 0;
+}
